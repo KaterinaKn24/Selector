@@ -1,0 +1,25 @@
+.text1 {
+	text-decoration: underline;
+	font-size: 30px;
+	background-color: #33ffff;
+}
+input[type="text"].super {
+	font-size: 25px;
+	color: #0000ff;
+	background-color: #ff66ff;
+}	
+.text1 [type="text"].repeat {
+	background-color: #99ff33;
+}
+input[type="text"].repeat {
+	font-size: 30px;
+	font-style: italic;
+	background-color: #ff9966;
+}
+.text2 {
+	border: 5px solid #660066;
+	background-color: #ffbbff;
+}
+.text2 [type="text"].repeat {
+	text-decoration: underline;
+}
